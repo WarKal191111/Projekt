@@ -1,0 +1,1 @@
+https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Stabsstellen/Datenschutz/Infotexte_und_Rundschreiben/Vergleich_von_Threema__Wire_und_Signal.pdf
