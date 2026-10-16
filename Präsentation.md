@@ -17,7 +17,7 @@ style: |
      Jede Farbe steht genau einmal hier. Alle Klassen weiter unten
      benutzen nur noch den Namen. Willst du das Aussehen ändern,
      änderst du nur diese sieben Zeilen – nicht die Klassen. */
-
+-
   :root {
     --blau:      #17324d;   /* Titel, Balken, Linien */
     --blau-hell: #24527a;   /* Akzente, Rand der Karten */
@@ -142,13 +142,13 @@ style: |
 
 <div class="titel">
 
-# Titel deiner Präsentation
+# Messenger
 
 </div>
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
+- Heutige Bedeutung: Warum ist das Thema jetzt wichtig?
 - Leitfrage und Ziel: Was möchte ich zeigen oder klären?
 - Ward
 - 9B
@@ -252,9 +252,9 @@ style: |
 
   **WhatsApp**
 
-  - Kostenmodell: 
-  - Quellcode: 
-  - Unterschied: 
+  - Kostenmodell: kostenlos 
+  - minimale Metadaten: Nein
+  - Bekannte die diesen Messenger verwenden: Alle
 
   </div>
   <div class="karte">
@@ -262,16 +262,15 @@ style: |
   **Signal**
 
   - Kostenmodell: Kostenlos
-  - Quellcode: 
-  - 
-
+  - minimale Metadaten: Ja
+  - Bekannte die diesen Messenger verwenden: Keine
   </div>
   <div class="karte">
 
   **Threema**
 
   - Kostenmodell: einmalig 5 Euro
-  - Quellcode: Open-Source
+  - minimale Metadaten: Ja
   - Bekannte die diesen Messenger verwenden: Keine
 
   </div>
