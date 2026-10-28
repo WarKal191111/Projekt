@@ -235,8 +235,8 @@ style: |
 
   **Kostenmodell**
 
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
+  - Modelle:kostenlos (finanziert durch Daten/Werbung oder Spenden) vs. Kaufpreis
+  - Prüffrage: Welche monetären oder indirekten Kosten entstehen?
 
   </div>
   <div class="spalte">
