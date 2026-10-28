@@ -165,79 +165,20 @@ style: |
 
 <div class="titel">
 
-# Eine Folie mit einer Aussage
+# Messenger im Alltag:Hohe Nutzung trifft auf Zielkonflikte
 
 </div>
 
 <div class="liste">
 
-- Erster Stichpunkt
-- Zweiter Stichpunkt
-- Dritter Stichpunkt
+- Alltagsrelevanz: wichtige Rolle für private und schulische Kommunikation
+- Dilemma: Konflikt zwischen Reichweite, Datenschutz und Kosten
+- Ziel:Alltagstauglichkeit vs Datenschutz und Kosten
 
 </div>
 
 <div class="fusszeile">
-  Einleitung · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Kostenmodell und Quellcode getrennt betrachten
-
-</div>
-
-<div class="grid-2">
-  <div class="spalte">
-
-  **Kostenmodell**
-
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
-
-  </div>
-  <div class="spalte">
-
-  **Quellcode**
-
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
-
-  </div>
-</div>
-
-<div class="fusszeile">
-  Überblick · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Eine breite und eine schmale Spalte
-
-</div>
-
-<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
-  <div class="spalte">
-
-  - Erklärung, Aufzählung oder Fließtext
-  - Der Text bekommt zwei Teile der Breite
-
-  </div>
-  <div class="spalte">
-
-  **Kurzfassung**
-
-  - Ein Satz
-
-  </div>
-</div>
-
-<div class="fusszeile">
-  Detail und Überblick · Ward, 9B
+  Einleitung · Ward, 9B
 </div>
 
 ---
@@ -283,7 +224,63 @@ style: |
 </div>
 
 ---
+<div class="titel">
 
+# Kostenmodell und Quellcode getrennt betrachten
+
+</div>
+
+<div class="grid-2">
+  <div class="spalte">
+
+  **Kostenmodell**
+
+  - kostenpflichtig oder kostenlos?
+  - kostenlose Grundfunktionen, Zusatzangebote?
+
+  </div>
+  <div class="spalte">
+
+  **Quellcode**
+
+  - öffentlich zugänglich?
+  - Lizenz und Beleg prüfen
+
+  </div>
+</div>
+
+<div class="fusszeile">
+  Überblick · Name, Klasse
+</div>
+
+---
+<div class="titel">
+
+# Eine breite und eine schmale Spalte
+
+</div>
+
+<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
+  <div class="spalte">
+
+  - Erklärung, Aufzählung oder Fließtext
+  - Der Text bekommt zwei Teile der Breite
+
+  </div>
+  <div class="spalte">
+
+  **Kurzfassung**
+
+  - Ein Satz
+
+  </div>
+</div>
+
+<div class="fusszeile">
+  Detail und Überblick · Ward, 9B
+</div>
+
+---
 <div class="titel">
 
 # Merksatz oder Kasten
