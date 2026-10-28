@@ -279,7 +279,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Überblick der Dienste · Ward, 9B
 </div>
 
 ---
