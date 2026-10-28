@@ -233,53 +233,84 @@ style: |
 <div class="grid-2">
   <div class="spalte">
 
-  **Kostenmodell**
+### 1. Kostenmodell
+* **Prüffrage:** Welche Kosten entstehen?
+* **WhatsApp & Signal:** Kostenlos (Meta-Daten bzw. Spenden)
+* **Threema:** Einmalig kostenpflichtig (iOS/Android Store)
 
-  - Modelle:kostenlos (finanziert durch Daten/Werbung oder Spenden) vs. Kaufpreis
-  - Prüffrage: Welche monetären oder indirekten Kosten entstehen?
-
-  </div>
+ </div>
   <div class="spalte">
-
-  **Quellcode**
-
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
-
+ 
+### 2. Quellcode
+* **Prüffrage:** Ist die Sicherheit unabhängig prüfbar?
+* **WhatsApp:** Proprietär / geschlossen (Vertrauen nötig)
+* **Signal & Threema:** Open Source (öffentlich geprüft)
+  
   </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Kostenmodell und Quellcode · Ward, 9B
 </div>
 
 ---
 <div class="titel">
 
-# Eine breite und eine schmale Spalte
+# Alltagstauglichkeit & Praxis-Check
 
 </div>
 
-<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
+<div class="grid-2">
   <div class="spalte">
 
-  - Erklärung, Aufzählung oder Fließtext
-  - Der Text bekommt zwei Teile der Breite
+### 1. Alltagstauglichkeit
+* **Prüffrage:** Reale Erreichbarkeit im Umfeld?
+* **Eigenes Umfeld:** 0 Personen nutzen Threema
+* **Markt:** WhatsApp dominiert; datenschutzfreundliche Dienste bleiben Nische
 
-  </div>
+ </div>
   <div class="spalte">
-
-  **Kurzfassung**
-
-  - Ein Satz
-
+ 
+### 2. Zielkonflikt & Fazit
+* **Dilemma:** Reichweite vs. Datenschutz
+* **WhatsApp:** Max. Alltagstauglichkeit
+* **Threema:** Max. Datenschutz & Anonymität
+* **Fazit:** Wahl hängt von Prioritäten ab
+  
   </div>
 </div>
 
 <div class="fusszeile">
-  Detail und Überblick · Ward, 9B
+  Alltagstauglichkeit & Praxis-Check · Ward, 9B
 </div>
 
+
+
+---
+Vertiefte Prüfung: Threema im Check
+
+* **Prüfung 1: Alltagstauglichkeit & Erreichbarkeit**
+  * *Frage:* Wie viele Kontakte nutzen den Dienst im Alltag?
+  * *Antwort:* 0 Personen im eigenen Umfeld; geringe Verbreitung im deutschen Gesamtmarkt.
+
+* **Prüfung 2: Datenschutz & Quellcode**
+  * *Frage:* Ist der Code unabhängig geprüft und transparent?
+  * *Antwort:* Ja, Open Source und durch externe Audits (u. a. belegt durch SoftMaker) positiv bestätigt.
+
+* **Prüfung 3: Kostenmodell**
+  * *Frage:* Welches Finanzierungsmodell liegt vor?
+  * *Antwort:* Einmalig kostenpflichtig im iOS App Store und Google Play Store (keine Werbe-Finanzierung).
+---
+Welcher Messenger passt zu welchen Prioritäten?
+
+* **Priorität Reichweite & Bequemlichkeit:**
+  * **WhatsApp:** Höchste Erreichbarkeit, aber Abstriche beim Datenschutz.
+
+* **Priorität Balance (Datenschutz + Kostenlos):**
+  * **Signal:** Hoher Datenschutz, Open Source, kostenfrei nutzbar.
+
+* **Priorität Maximale Anonymität & Unabhängigkeit:**
+  * **Threema:** Höchste Standards, erfordert jedoch Zahlungsbereitschaft und Akzeptanz der geringen Reichweite.
 ---
 <div class="titel">
 
@@ -288,36 +319,33 @@ style: |
 </div>
 
 <div class="merksatz">
-  Ein Satz, den das Publikum behalten soll.
+ Kein Messenger ist perfekt: Die Wahl zwischen WhatsApp, Signal und Threema ist immer ein persönlicher Kompromiss zwischen Alltagstauglichkeit, Kosten und Datenschutz .
 </div>
 
 <div class="box">
 
-- Ein Punkt
-- Ein weiterer Punkt
+- WhatsApp: Max. Reichweite und Bequemlichkeit aber geringer Datenschutz
+- Signal: Der beste Kompromiss, da er kostenlos, Open Source und datenschutzfreundlich ist
+- Threema: maximaler Datenschutz und Anonymität aber es erfordert einen einmaligen Kauf und Akzeptanz der Nische
 
 </div>
 
 <div class="fusszeile">
-  Merksatz · Name, Klasse
+  Merksatz · Ward, 9B
 </div>
 
 ---
 
-<div class="titel">
-
-# Bild mit Beschreibung
-
-</div>
-
-<div class="bild">
-
-![Kurze Beschreibung des Bildes](bilder/beispiel.png)
-
+### Meine Wahl im Alltag: WhatsApp
+* **Erreichbarkeit schlägt Theorie:** Da 0 Personen in meinem Umfeld Threema nutzen, nützt mir der beste Datenschutz im Alltag nichts.
+* **Pragmatismus:** Für meine tägliche Kommunikation ist die maximale Reichweite der entscheidende Faktor.
+* **Mein Fazit:** Ich nutze WhatsApp aus Bequemlichkeit, bin mir der Datenschutz-Problematik durch diese Arbeit aber voll bewusst.
+  
+  </div>
 </div>
 
 <div class="fusszeile">
-  Bild · Name, Klasse
+  Fazit & Entscheidung · Ward, 9B
 </div>
 
 ---
@@ -330,11 +358,14 @@ style: |
 
 <div class="liste">
 
-- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
-- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
+- [Messenger-Vergleich 2026: Signal, WhatsApp, Telegram – wer schützt Ihre Daten wirklich?](https://www.softmaker.de/blog/freitag-punkt-12/blog-messenger-vergleich-datenschutz-2026), abgerufen am 28.10.26
+- [Beleg für den Preis von Threema](https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578)
+(https://play.google.com/store/search?q=threema&c=apps&hl=enhttps://beispiel.de), vom 28.10.26
+- [ARD Studie](https://www.ard-zdf-onlinestudie.de/files/2021/ARD_ZDF_Onlinestudie_2021_Publikationscharts_final.pdf) vom 28.10,26
+- [Zusammenfassung der Studie](https://www.ard-zdf-onlinestudie.de/files/2021/PM_ARD_ZDF_Onlinestudie_2021_final.pdf) vom 28.10.26
 
 </div>
 
 <div class="fusszeile">
-  Quellen · Name, Klasse
+  Quellen · Ward, 9B
 </div>

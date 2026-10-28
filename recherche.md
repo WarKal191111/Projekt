@@ -1,4 +1,3 @@
-https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Stabsstellen/Datenschutz/Infotexte_und_Rundschreiben/Vergleich_von_Threema__Wire_und_Signal.pdf  Datum der Daten: 13.12.2020
 https://www.softmaker.de/blog/freitag-punkt-12/blog-messenger-vergleich-datenschutz-2026 Datum der Daten: 24.04.2026
 Leitfrage: Welcher Messenger passt wenn man Alltagstauglichkeit, Datenschutz und Kosten einbezieht zu meinen persönlichen Ansprüchen?
 Drei Dienste: WhatsApp
@@ -30,7 +29,7 @@ Quelle:https://www.softmaker.de/blog/freitag-punkt-12/blog-messenger-vergleich-d
 Stand:24.04.2026|
 Nach diesem Überblick habe ich mich für Threema entschieden,da dieser Dienst auf Datenschutz, Open Source und Anonymität ausgerichtet ist und damit den stärksten Kontrast zu WhatsApp darstellt. Ich habe mich hier an meine persönlichen Ansprüche gehalten und ihn nicht als besten Messenger auserkoren.
 |Prüfung 1(Erreichbarkeit im Alltag): Ergebnis:In meinem persönlichen Umfeld liegt die Nutzung bei 0 Personen(nicht alltäglich) jedoch gibt es weltweit über 10 Millionen Nutzer wobei nur 3 Prozent der Nutzer in Deutschland Threema täglich benutzen.
-Beleg:Eigene Beobachtung im Alltag (nicht belegt durch offiziele Statistiken),https://www.ard-zdf-onlinestudie.de/files/2021/PM_ARD_ZDF_Onlinestudie_2021_final.pdf Folie 3 (2021),https://www.digitec.ch/en/page/number-of-threema-users-climbed-to-over-10-million-20061 (2021), https://www.ard-zdf-onlinestudie.de/files/2021/ARD_ZDF_Onlinestudie_2021_Publikationscharts_final.pdf (2021) Folie 34|
+Beleg:Eigene Beobachtung im Alltag (nicht belegt durch offiziele Statistiken),https://www.ard-zdf-onlinestudie.de/files/2021/ARD_ZDF_Onlinestudie_2021_Publikationscharts_final.pdf,https://www.ard-zdf-onlinestudie.de/files/2021/PM_ARD_ZDF_Onlinestudie_2021_final.pdf|
 |Prüfung 2(Datenschutz und Quellcode): Ergebnis:Sehr hoher Datenschutz.Komplette Nutzung ohne Telefonnummer oder E-Mail Adresse (Anonym). Der Quellcode ist öffentlich zugänglich und komplett Open Source.
 Beleg:https://www.softmaker.de/blog/freitag-punkt-12/blog-messenger-vergleich-datenschutz-2026|
 |Prüfung 3(Kosten): Ergebnis:Einmaliger Kauf beim Download(6-7 USD) danach gibt es keine weiteren Kosten.
