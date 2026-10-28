@@ -237,7 +237,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Detail und Überblick · Name, Klasse
+  Detail und Überblick · Ward, 9B
 </div>
 
 ---
@@ -271,7 +271,7 @@ style: |
 
   **Threema**
 
-  - Kostenmodell: einmaliger Kauf (6 USD)
+  - Kostenmodell: einmaliger Kauf (6-7 USD)
   - Datenschutz: sehr hoch
   - Erreichbarkeit im Bekanntenkreis: sehr gering (0)
 
