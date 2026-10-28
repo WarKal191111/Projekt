@@ -17,7 +17,7 @@ style: |
      Jede Farbe steht genau einmal hier. Alle Klassen weiter unten
      benutzen nur noch den Namen. Willst du das Aussehen ändern,
      änderst du nur diese sieben Zeilen – nicht die Klassen. */
--
+
   :root {
     --blau:      #17324d;   /* Titel, Balken, Linien */
     --blau-hell: #24527a;   /* Akzente, Rand der Karten */
@@ -142,22 +142,23 @@ style: |
 
 <div class="titel">
 
-# Messenger
+# Meine Auseinandersetzung mit Messengern
 
 </div>
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Heutige Bedeutung: Messenger bestimmen unsere Erreichbarkeit in Echtzeit beschützen sie aber auch unsere Privatsphäre?
+- Leitfrage: Welcher Messenger passt zu meinen persönlichen Ansprüchen?
+- Ziel: Demonstration das man einen Kompromiss aus Sicherheit und Erreichbarkeit eingehen muss
 - Ward
 - 9B
-- Datum
+- 28.10.2026
 
 </div>
 
 <div class="fusszeile">
-  Messenger · Ward, 9B
+  Meine Auseinandersetzung mit Messengern · Ward, 9B
 </div>
 
 ---
@@ -177,7 +178,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Einleitung · Ward, 9B
+  Einleitung · Name, Klasse
 </div>
 
 ---
@@ -208,7 +209,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Überblick · Ward, 9B
+  Überblick · Name, Klasse
 </div>
 
 ---
@@ -252,32 +253,33 @@ style: |
 
   **WhatsApp**
 
-  - Kostenmodell: kostenlos 
-  - minimale Metadaten: Nein
-  - Bekannte die diesen Messenger verwenden: Alle
+  - Kostenmodell: kostenlos
+  - Datenschutz: eingeschränkt
+  - Erreichbarkeit im Bekanntenkreis: sehr hoch 
 
   </div>
   <div class="karte">
 
   **Signal**
 
-  - Kostenmodell: Kostenlos
-  - minimale Metadaten: Ja
-  - Bekannte die diesen Messenger verwenden: Keine
+  - Kostenmodell: kostenlos
+  - Datenschutz: hoch
+  - Erreichbarkeit im Bekanntenkreis: sehr gering (0)
+
   </div>
   <div class="karte">
 
   **Threema**
 
-  - Kostenmodell: einmalig 5 Euro
-  - minimale Metadaten: Ja
-  - Bekannte die diesen Messenger verwenden: Keine
+  - Kostenmodell: einmaliger Kauf (6 USD)
+  - Datenschutz: sehr hoch
+  - Erreichbarkeit im Bekanntenkreis: sehr gering (0)
 
   </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Ward, 9B
+  Überblick · Name, Klasse
 </div>
 
 ---
@@ -300,7 +302,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Merksatz · Ward, 9B
+  Merksatz · Name, Klasse
 </div>
 
 ---
@@ -318,7 +320,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Bild · Ward, 9B
+  Bild · Name, Klasse
 </div>
 
 ---
@@ -337,5 +339,5 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Quellen · Ward, 9B
+  Quellen · Name, Klasse
 </div>
